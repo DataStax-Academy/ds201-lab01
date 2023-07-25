@@ -37,7 +37,7 @@ ls -l
 
 ✅ Start Cassandra:
 ```
-./cassandra
+./cassandra -p cassandra.pid
 ```
 
 It may take a while for Cassandra to start. 
